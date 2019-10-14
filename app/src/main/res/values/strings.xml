@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas_TeoriSpinner</string>
+    <string name="pilih_makanan">Pilih Makanan</string>
+
+    <string-array name="daftar_makanan">
+        <item>Nasi Goreng</item>
+        <item>Nasi Ayam</item>
+        <item>Nasi Pecel</item>
+    </string-array>
+</resources>
